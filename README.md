@@ -2,7 +2,7 @@
 
 I'm a computational biologist based in Barcelona with a passion for building software.
 
-I grew up with home computers like the MSX, Commodore 64, Amstrad, and ZX Spectrum, and I've been writing software ever since. My scientific career has taken me from molecular modeling and genomics to biomedical informatics, where I develop open-source infrastructure for interoperable biomedical data, reproducible research, and AI-assisted science.
+I grew up in the era of BASIC home computers. My first computer was an MSX, and I’ve been building software ever since. My scientific career has taken me from molecular modeling and genomics to biomedical informatics, where I develop open-source infrastructure for interoperable biomedical data, reproducible research, and AI-assisted science.
 
 ## 🧬 Research software
 
