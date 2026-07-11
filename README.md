@@ -20,10 +20,17 @@ I enjoy building software that solves real-world problems, whether for research,
 
 Some examples include:
 
-* 🎛️ Pad-Lattice — Turn a Novation Launchpad into a control surface for supervising autonomous coding agents.
-* 📚 ShelfSchool — A self-hosted library management system for small schools.
-* 💊 DataMatrix2Codes — Decode and process GS1 DataMatrix barcodes commonly used in pharmaceutical packaging and healthcare workflows.
-* 🧠 OpenRecall  —   A fully static, open-source, searchable database of pharmaceutical recalls published by AEMPS. The project transforms official public notices into structured, versioned JSON datasets that can be searched by medicine, Código Nacional (CN), batch number, or recall ID, making recall information easier to access for healthcare professionals, pharmacies, developers, and researchers.
+* 🎛️ **Pad-Lattice** *(Developer Tools)* — Turn a Novation Launchpad into a control surface for supervising autonomous coding agents.  
+  https://github.com/mrueda/pad-lattice
+
+* 📚 **ShelfSchool** *(Education)* — A self-hosted library management system for small schools.  
+  https://github.com/mrueda/shelfschool
+
+* 💊 **DataMatrix2Codes** *(Healthcare)* — Decode and process GS1 DataMatrix barcodes commonly used in pharmaceutical packaging and healthcare workflows.  
+  https://github.com/mrueda/datamatrix2codes
+
+* 🧠 **RecallRx** *(Healthcare)* — A static, open-source search app for medicine recalls from official regulatory sources, with structured country-aware data for healthcare professionals, pharmacies, developers, and researchers.  
+  https://github.com/mrueda/openrecall
 
 ## 🔬 Research interests
 
