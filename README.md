@@ -14,12 +14,16 @@ Our work focuses on biomedical data interoperability, sustainable scientific sof
 
 Many projects on this account begin as personal ideas, prototypes, or independent tools before evolving into collaborative research software.
 
-## 🚀 Personal projects
+🚀 Open-source projects
 
-Outside research, I still enjoy building software simply because I find it interesting.
+I enjoy building software that solves real-world problems, whether for research, healthcare, education, or developer productivity.
 
-- 🎛️ **Pad-Lattice** — Turn a Novation Launchpad into a control surface for supervising autonomous coding agents.
-- 📚 **ShelfSchool** — A self-hosted library management system for small schools.
+Some examples include:
+
+* 🎛️ Pad-Lattice — Turn a Novation Launchpad into a control surface for supervising autonomous coding agents.
+* 📚 ShelfSchool — A self-hosted library management system for small schools.
+* 💊 DataMatrix2Codes — Decode and process GS1 DataMatrix barcodes commonly used in pharmaceutical packaging and healthcare workflows.
+* 🧠 OpenRecall  —   A fully static, open-source, searchable database of pharmaceutical recalls published by AEMPS. The project transforms official public notices into structured, versioned JSON datasets that can be searched by medicine, Código Nacional (CN), batch number, or recall ID, making recall information easier to access for healthcare professionals, pharmacies, developers, and researchers.
 
 ## 🔬 Research interests
 
