@@ -14,7 +14,7 @@ Our work focuses on biomedical data interoperability, sustainable scientific sof
 
 Many projects on this account begin as personal ideas, prototypes, or independent tools before evolving into collaborative research software.
 
-🚀 Open-source projects
+## 🚀 Open-source projects
 
 I enjoy building software that solves real-world problems, whether for research, healthcare, education, or developer productivity.
 
