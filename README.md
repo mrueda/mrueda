@@ -1,12 +1,12 @@
 # Hi, I'm Manuel Rueda 👋
 
-I'm a computational biologist based in Barcelona with a passion for building software.
+I'm a computational biologist scientist based in Barcelona with a passion for building software.
 
-I grew up in the era of BASIC home computers. My first computer was an MSX, and I’ve been building software ever since. My scientific career has taken me from molecular modeling and genomics to biomedical informatics, where I develop open-source infrastructure for interoperable biomedical data, reproducible research, and AI-assisted science.
+I grew up in the era of BASIC home computers. My first computer was an MSX, and I’ve been interested in computers ever since. My scientific career has taken me from structural computational biology to genomics and biomedical informatics, where I develop open-source infrastructure for interoperable biomedical data, reproducible research, and AI-assisted science.
 
 ## 🧬 Research software
 
-Most of my collaborative and production research software is developed within the **CNAG Biomedical Informatics** initiative:
+Most of my collaborative and production research software is developed within the **CNAG Biomedical Informatics** laboratory:
 
 ➡️ https://github.com/CNAG-Biomedical-Informatics
 
@@ -16,31 +16,21 @@ Many projects on this account begin as personal ideas, prototypes, or independen
 
 ## 🚀 Open-source projects
 
-I enjoy building software that solves real-world problems, whether for research, healthcare, education, or developer productivity.
+I enjoy building software that solves **real-world problems**, whether for research, healthcare, education, or developer productivity.
 
 Some examples include:
 
-* 🎛️ **Pad-Lattice** *(Developer Tools)* — Turn a Novation Launchpad into a control surface for supervising autonomous coding agents.  
-  https://github.com/mrueda/pad-lattice
-
-* 📚 **ShelfSchool** *(Education)* — A self-hosted library management system for small schools.  
-  https://github.com/mrueda/shelfschool
-
-* 💊 **DataMatrix2Codes** *(Healthcare)* — Decode and process GS1 DataMatrix barcodes commonly used in pharmaceutical packaging and healthcare workflows.  
+* 💊 **DataMatrix2Codes** *(Healthcare)* — Decode and process GS1 DataMatrix barcodes used in pharmaceutical packaging in Spain.  
   https://github.com/mrueda/datamatrix2codes
 
 * 🧠 **RecallRx** *(Healthcare)* — A static, open-source search app for medicine recalls from official regulatory sources, with structured country-aware data for healthcare professionals, pharmacies, developers, and researchers.  
   https://github.com/mrueda/openrecall
+  
+* 🎛️ **Pad-Lattice** *(Developer Tools)* — Turn a Novation Launchpad Pro into a control surface for supervising autonomous coding agents.  
+  https://github.com/mrueda/pad-lattice
 
-## 🔬 Research interests
-
-- Bioinformatics
-- Biomedical informatics
-- Scientific software
-- Data interoperability
-- Genomics
-- AI-assisted science
-- Open source
+* 📚 **ShelfSchool** *(Education)* — A self-hosted library management system for small schools.  
+  https://github.com/mrueda/shelfschool
 
 ---
 
