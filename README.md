@@ -20,6 +20,9 @@ I enjoy building software that solves **real-world problems**, whether for resea
 
 Some examples include:
 
+* 📚 **Shelf-School** *(Education)* — A self-hosted library management system for small schools.  
+  https://github.com/mrueda/shelf-school
+
 * 💊 **DataMatrix2Codes** *(Healthcare)* — Decode and process GS1 DataMatrix barcodes used in pharmaceutical packaging in Spain.  
   https://github.com/mrueda/datamatrix2codes
 
@@ -29,8 +32,6 @@ Some examples include:
 * 🎛️ **Pad-Lattice** *(Developer Tools)* — Turn a Novation Launchpad Pro into a control surface for supervising autonomous coding agents.  
   https://github.com/mrueda/pad-lattice
 
-* 📚 **Shelf-School** *(Education)* — A self-hosted library management system for small schools.  
-  https://github.com/mrueda/shelf-school
 
 ---
 
