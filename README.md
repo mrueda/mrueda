@@ -29,8 +29,8 @@ Some examples include:
 * 🎛️ **Pad-Lattice** *(Developer Tools)* — Turn a Novation Launchpad Pro into a control surface for supervising autonomous coding agents.  
   https://github.com/mrueda/pad-lattice
 
-* 📚 **ShelfSchool** *(Education)* — A self-hosted library management system for small schools.  
-  https://github.com/mrueda/shelfschool
+* 📚 **Shelf-School** *(Education)* — A self-hosted library management system for small schools.  
+  https://github.com/mrueda/shelf-school
 
 ---
 
