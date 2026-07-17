@@ -26,6 +26,8 @@ Some examples include:
 
 * 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) *(Developer Tools)* — Repurpose MIDI grid controllers as extensible physical interfaces for monitoring and controlling AI agents.
 
+* 🎵 [**Music Key Detector**](https://github.com/mrueda/music-key-detector) *(Music)* — Estimate the likely major or minor key of an audio file, with confidence scores, ambiguity detection, and ranked alternatives.
+
 ## 💾 From BASIC to biomedical informatics
 
 I grew up in the era of BASIC home computers. My first computer was an MSX, and I’ve been interested in computers ever since. My scientific career has taken me from structural computational biology to genomics and biomedical informatics.
