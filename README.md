@@ -24,7 +24,7 @@ Some examples include:
 
 * 🧠 [**RecallRx**](https://github.com/mrueda/openrecall) *(Healthcare)* — A static, open-source search app for medicine recalls from official regulatory sources, with structured country-aware data for healthcare professionals, pharmacies, developers, and researchers.
 
-* 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) *(Developer Tools)* — Turn a Novation Launchpad Pro into a control surface for supervising autonomous coding agents.
+* 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) *(Developer Tools)* — Repurpose MIDI grid controllers as extensible physical interfaces for monitoring and controlling AI agents.
 
 ## 💾 From BASIC to biomedical informatics
 
