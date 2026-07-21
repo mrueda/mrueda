@@ -8,7 +8,7 @@ genomics, and AI-assisted research.
 
 I lead the
 [CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics)
-laboratory, where we develop open-source infrastructure for biomedical data
+subteam, where we develop open-source infrastructure for biomedical data
 and reproducible analysis. My independent projects apply the same engineering
 approach to practical problems in healthcare, education, and human-computer
 interaction.
