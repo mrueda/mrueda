@@ -1,35 +1,54 @@
 # Hi, I'm Manuel Rueda 👋
 
-I'm a computational biologist based in Barcelona with a passion for building software. I develop open-source infrastructure for interoperable biomedical data, reproducible genomics, and trustworthy AI-assisted research.
+I am a computational biologist based in Barcelona. I build open-source
+scientific software for biomedical data interoperability, reproducible
+genomics, and AI-assisted research.
 
-**Current focus:** sustainable scientific software, biomedical data standards, reproducible analysis workflows, and practical applications of AI in research.
+I lead the
+[CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics)
+laboratory, where we develop open-source infrastructure for biomedical data
+and reproducible analysis. My independent projects apply the same engineering
+approach to practical problems in healthcare, education, and human-computer
+interaction.
 
 ## 🧬 Research software
 
-Most of my collaborative and production research software is developed within the [CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics) laboratory.
+My scientific work spans structural computational biology, genomics, and
+biomedical informatics, with a current focus on biomedical data standards,
+reproducible analysis workflows, and sustainable software infrastructure.
 
-Our work focuses on biomedical data interoperability, sustainable scientific software, and trustworthy AI for biomedical research.
+- 🧬 [**CBIcall**](https://github.com/CNAG-Biomedical-Informatics/cbicall)
+  *(Genomics)* - A configuration-driven framework for reproducible variant
+  calling in large sequencing cohorts.
+- 🧩 [**ClarID Tools**](https://github.com/CNAG-Biomedical-Informatics/clarid-tools)
+  *(Biomedical data)* - Tools for human-readable, compact identifiers in
+  biomedical metadata integration.
 
-Many projects on this account begin as personal ideas, prototypes, or independent tools before evolving into collaborative research software.
+Further collaborative projects are available through
+[CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics).
 
-## 🚀 Open-source projects
+## 🚀 Independent open-source projects
 
-I enjoy building software that solves **real-world problems**, whether for research, healthcare, education, or developer productivity.
+- 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice)
+  *(AI interfaces)* - A tactile visual language between people and AI agents,
+  available through physical MIDI pad controllers and virtual surfaces on
+  phones, tablets, and browsers.
+- 💊 [**RecallRx**](https://github.com/mrueda/recallrx) *(Healthcare)* -
+  Country-aware medicine recall search using official regulatory sources.
+- 📚 [**Shelf-School**](https://github.com/mrueda/shelf-school) *(Education)* -
+  A self-hosted library management system for small schools.
+- 💊 [**DataMatrix2Codes**](https://github.com/mrueda/datamatrix2codes)
+  *(Healthcare)* - Decode and process GS1 DataMatrix barcodes used on
+  pharmaceutical packaging.
+- 🎵 [**Music Key Detector**](https://github.com/mrueda/music-key-detector)
+  *(Music)* - Estimate the likely major or minor key of an audio file, including
+  confidence and ambiguity.
 
-Some examples include:
+## 💾 Background
 
-* 📚 [**Shelf-School**](https://github.com/mrueda/shelf-school) *(Education)* — A self-hosted library management system for small schools.
+I began programming in BASIC on an MSX and have continued building software
+throughout my scientific career. My background as a musician informed
+Pad-Lattice's use of MIDI grid controllers as interfaces for AI agents.
 
-* 💊 [**DataMatrix2Codes**](https://github.com/mrueda/datamatrix2codes) *(Healthcare)* — Decode and process GS1 DataMatrix barcodes used in pharmaceutical packaging in Spain.
-
-* 🧠 [**RecallRx**](https://github.com/mrueda/openrecall) *(Healthcare)* — A static, open-source search app for medicine recalls from official regulatory sources, with structured country-aware data for healthcare professionals, pharmacies, developers, and researchers.
-
-* 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) *(Developer Tools)* — Repurpose MIDI grid controllers as extensible physical interfaces for monitoring and controlling AI agents.
-
-* 🎵 [**Music Key Detector**](https://github.com/mrueda/music-key-detector) *(Music)* — Estimate the likely major or minor key of an audio file, with confidence scores, ambiguity detection, and ranked alternatives.
-
-## 💾 From BASIC to biomedical informatics
-
-I grew up in the era of BASIC home computers. My first computer was an MSX, and I’ve been interested in computers ever since. My scientific career has taken me from structural computational biology to genomics and biomedical informatics.
-
-Older repositories are preserved as part of my professional journey. Projects that are no longer maintained are archived rather than removed.
+Older repositories are preserved as part of my professional journey. Projects
+that are no longer maintained are archived rather than removed.
