@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">mrueda</title>
+  <desc id="desc">
+    Aligned sequencing reads become a continuous signal that moves through
+    high-performance computing and open-source software, representing a
+    long-running practice in computational biology.
+  </desc>
+
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="9" stdDeviation="13" flood-color="#0d1117" flood-opacity=".2"/>
+    </filter>
+    <rect id="server" width="38" height="18" rx="3"/>
+    <style>
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .canvas { fill: #f7f9fb; stroke: #d0d7de; }
+      .ink { fill: #17202a; }
+      .muted { fill: #59636e; }
+      .signature { font-size: 72px; font-weight: 780; letter-spacing: 0; }
+      .descriptor { font-size: 16px; font-weight: 700; letter-spacing: 1.2px; }
+      .trace { stroke: #8c9ba5; }
+      .rack { fill: #111820; stroke: #3b4c58; }
+      .server { fill: #202b34; stroke: #394854; }
+
+      @media (prefers-color-scheme: dark) {
+        .canvas { fill: #0d1117; stroke: #30363d; }
+        .ink { fill: #f0f6fc; }
+        .muted { fill: #b1bac4; }
+        .trace { stroke: #647985; }
+        .rack { fill: #0a1015; stroke: #45606f; }
+        .server { fill: #182129; stroke: #33434e; }
+      }
+    </style>
+  </defs>
+
+  <rect class="canvas" x="1" y="1" width="1198" height="328" rx="8" stroke-width="2"/>
+  <!-- A compact read pileup: reference, staggered reads, gaps, and variants. -->
+  <text class="muted" x="72" y="57" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="4">A C G T A C G T</text>
+  <path d="M68 68H286" class="trace" stroke-width="2"/>
+  <path d="M202 64V214" stroke="#a23b72" stroke-width="2" stroke-dasharray="4 6" opacity=".5"/>
+
+  <g stroke-linecap="round" stroke-width="10">
+    <path d="M82 88H264" stroke="#0e9baa"/>
+    <path d="M104 112H282" stroke="#72b626"/>
+    <path d="M66 136H220" stroke="#3674e8"/>
+    <path d="M126 160H278" stroke="#0e9baa"/>
+    <path d="M78 184H164M181 184H252" stroke="#72b626"/>
+    <path d="M96 208H276" stroke="#3674e8"/>
+  </g>
+
+  <g>
+    <rect x="198" y="83" width="8" height="10" rx="2" fill="#a23b72"/>
+    <rect x="198" y="107" width="8" height="10" rx="2" fill="#d39a18"/>
+    <rect x="198" y="131" width="8" height="10" rx="2" fill="#a23b72"/>
+    <rect x="198" y="155" width="8" height="10" rx="2" fill="#d39a18"/>
+    <rect x="198" y="203" width="8" height="10" rx="2" fill="#a23b72"/>
+    <rect x="141" y="179" width="8" height="10" rx="2" fill="#39c5cf"/>
+    <rect x="238" y="107" width="8" height="10" rx="2" fill="#39c5cf"/>
+  </g>
+
+  <path d="M70 242C94 234 111 237 130 229C149 221 167 224 185 232C204 240 223 240 241 231C258 223 277 224 306 232" fill="none" stroke="#72b626" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="202" cy="232" r="6" fill="#a23b72"/>
+
+  <!-- Personal signature and focus. -->
+  <text class="ink signature" x="326" y="137">mrueda</text>
+  <text class="muted descriptor" x="332" y="177">COMPUTATIONAL BIOLOGY · HPC · OPEN SOURCE</text>
+
+  <!-- The sequencing signal continues into scientific computing. -->
+  <path d="M306 232H462C484 232 492 218 510 218C528 218 535 246 553 246C571 246 579 207 597 207C615 207 622 258 640 258C658 258 666 225 684 225H725" fill="none" stroke="#72b626" stroke-width="4" stroke-linecap="round"/>
+  <path d="M725 225H744L754 204L767 250L781 181L797 239L811 211L824 225H874" fill="none" stroke="#0e9baa" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="312" cy="232" r="7" fill="#72b626"/>
+  <circle cx="510" cy="218" r="7" fill="#0969da"/>
+  <circle cx="640" cy="258" r="7" fill="#a23b72"/>
+  <circle cx="725" cy="225" r="7" fill="#d39a18"/>
+  <!-- High-performance computing: three connected compute racks. -->
+  <g filter="url(#shadow)">
+    <rect class="rack" x="900" y="78" width="54" height="178" rx="7" stroke-width="2"/>
+    <rect class="rack" x="970" y="78" width="54" height="178" rx="7" stroke-width="2"/>
+    <rect class="rack" x="1040" y="78" width="54" height="178" rx="7" stroke-width="2"/>
+  </g>
+
+  <g class="server">
+    <use href="#server" x="908" y="90"/><use href="#server" x="908" y="116"/><use href="#server" x="908" y="142"/><use href="#server" x="908" y="168"/><use href="#server" x="908" y="194"/><use href="#server" x="908" y="220"/>
+    <use href="#server" x="978" y="90"/><use href="#server" x="978" y="116"/><use href="#server" x="978" y="142"/><use href="#server" x="978" y="168"/><use href="#server" x="978" y="194"/><use href="#server" x="978" y="220"/>
+    <use href="#server" x="1048" y="90"/><use href="#server" x="1048" y="116"/><use href="#server" x="1048" y="142"/><use href="#server" x="1048" y="168"/><use href="#server" x="1048" y="194"/><use href="#server" x="1048" y="220"/>
+  </g>
+
+  <g>
+    <circle cx="939" cy="99" r="3" fill="#72b626"/><circle cx="939" cy="125" r="3" fill="#0e9baa"/><circle cx="939" cy="151" r="3" fill="#72b626"/><circle cx="939" cy="177" r="3" fill="#d39a18"/><circle cx="939" cy="203" r="3" fill="#72b626"/><circle cx="939" cy="229" r="3" fill="#0e9baa"/>
+    <circle cx="1009" cy="99" r="3" fill="#0e9baa"/><circle cx="1009" cy="125" r="3" fill="#72b626"/><circle cx="1009" cy="151" r="3" fill="#72b626"/><circle cx="1009" cy="177" r="3" fill="#a23b72"/><circle cx="1009" cy="203" r="3" fill="#0e9baa"/><circle cx="1009" cy="229" r="3" fill="#72b626"/>
+    <circle cx="1079" cy="99" r="3" fill="#72b626"/><circle cx="1079" cy="125" r="3" fill="#72b626"/><circle cx="1079" cy="151" r="3" fill="#0969da"/><circle cx="1079" cy="177" r="3" fill="#72b626"/><circle cx="1079" cy="203" r="3" fill="#d39a18"/><circle cx="1079" cy="229" r="3" fill="#72b626"/>
+  </g>
+
+  <path d="M874 225H900" fill="none" stroke="#0e9baa" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="900" cy="225" r="6" fill="#0e9baa" stroke="#8ee7ed" stroke-width="2"/>
+  <path d="M927 270H1067" class="trace" stroke-width="2"/>
+  <circle cx="927" cy="270" r="5" fill="#72b626"/><circle cx="997" cy="270" r="5" fill="#0e9baa"/><circle cx="1067" cy="270" r="5" fill="#a23b72"/>
+</svg>

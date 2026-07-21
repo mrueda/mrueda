@@ -1,3 +1,5 @@
+![mrueda - computational biology, high-performance computing, and open-source scientific software](assets/profile-banner.svg)
+
 # Hi, I'm Manuel Rueda 👋
 
 I am a computational biologist based in Barcelona. I build open-source
@@ -29,6 +31,8 @@ Further collaborative projects are available through
 
 ## 🚀 Independent open-source projects
 
+![Featured independent projects across AI interfaces, healthcare, and education](assets/project-spectrum.svg)
+
 - 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice)
   *(AI interfaces)* - A tactile visual language between people and AI agents,
   available through physical MIDI pad controllers and virtual surfaces on
@@ -40,13 +44,17 @@ Further collaborative projects are available through
 - 💊 [**DataMatrix2Codes**](https://github.com/mrueda/datamatrix2codes)
   *(Healthcare)* - Decode and process GS1 DataMatrix barcodes used on
   pharmaceutical packaging.
+
+### 🧪 Experiments
+
 - 🎵 [**Music Key Detector**](https://github.com/mrueda/music-key-detector)
-  *(Music)* - Estimate the likely major or minor key of an audio file, including
-  confidence and ambiguity.
+  *(Audio analysis)* - A compact experiment for estimating likely major or
+  minor keys, with confidence and ambiguity reporting.
 
 ## 💾 Background
 
-I began programming in BASIC on an MSX and have continued building software
+I began programming in [BASIC](https://en.wikipedia.org/wiki/BASIC) on an
+[MSX](https://en.wikipedia.org/wiki/MSX) and have continued building software
 throughout my scientific career. My background as a musician informed
 Pad-Lattice's use of MIDI grid controllers as interfaces for AI agents.
 

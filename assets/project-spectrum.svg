@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 236" role="img" aria-labelledby="title desc">
+  <title id="title">Featured independent open-source projects</title>
+  <desc id="desc">
+    The canonical marks for Pad-Lattice, RecallRx, Shelf-School, and
+    DataMatrix2Codes share one open-source project path.
+  </desc>
+
+  <defs>
+    <linearGradient id="pad-case" x1="128" x2="896" y1="96" y2="928" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#242735"/>
+      <stop offset="1" stop-color="#090b12"/>
+    </linearGradient>
+    <style>
+      text {
+        font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      }
+      .canvas { fill: #f7f9fb; stroke: #d0d7de; }
+      .ink { fill: #17202a; }
+      .muted { fill: #59636e; }
+      .route { fill: none; stroke: #9aa5ae; }
+      .project { font-size: 18px; font-weight: 750; letter-spacing: 0; }
+      .domain { font-size: 11px; font-weight: 750; letter-spacing: 1.2px; }
+      .kicker { font-size: 12px; font-weight: 750; letter-spacing: 1.4px; }
+
+      @media (prefers-color-scheme: dark) {
+        .canvas { fill: #0d1117; stroke: #30363d; }
+        .ink { fill: #f0f6fc; }
+        .muted { fill: #b1bac4; }
+        .route { stroke: #52616c; }
+      }
+    </style>
+  </defs>
+
+  <rect class="canvas" x="1" y="1" width="1198" height="234" rx="8" stroke-width="2"/>
+  <text class="muted kicker" x="600" y="27" text-anchor="middle">FEATURED PROJECTS / DISTINCT DOMAINS / ONE OPEN-SOURCE PRACTICE</text>
+
+  <!-- A shared practice, not a data flow or dependency chain. -->
+  <path class="route" d="M52 103C116 103 126 103 150 103C250 103 279 130 330 130C383 130 402 103 450 103C549 103 580 130 630 130C683 130 702 103 750 103C849 103 880 130 930 130C983 130 1002 103 1050 103C1098 103 1121 103 1148 103" stroke-width="2.5"/>
+  <g fill="#9aa5ae">
+    <circle cx="300" cy="127" r="3"/>
+    <circle cx="600" cy="127" r="3"/>
+    <circle cx="900" cy="127" r="3"/>
+  </g>
+
+  <!-- Pad-Lattice canonical mark. -->
+  <g transform="translate(106 59) scale(.0859375)">
+    <rect width="1024" height="1024" rx="196" fill="#080a10"/>
+    <rect x="104" y="104" width="816" height="816" rx="150" fill="url(#pad-case)"/>
+    <g opacity=".22" stroke="#9aa4b2" stroke-width="10" stroke-linecap="round">
+      <path d="M256 256H768M256 384H768M256 512H768M256 640H768M256 768H768"/>
+      <path d="M256 256V768M384 256V768M512 256V768M640 256V768M768 256V768"/>
+    </g>
+    <g fill="none" stroke="#f8fafc" stroke-linecap="round" stroke-linejoin="round" opacity=".5">
+      <path d="M512 310V714" stroke-width="18"/>
+      <path d="M310 512H714" stroke-width="18"/>
+      <circle cx="512" cy="512" r="42" stroke-width="16"/>
+    </g>
+    <rect x="420" y="198" width="184" height="184" rx="40" fill="#2f80ff"/>
+    <rect x="642" y="420" width="184" height="184" rx="40" fill="#ffd43b"/>
+    <rect x="420" y="642" width="184" height="184" rx="40" fill="#34d058"/>
+    <rect x="198" y="420" width="184" height="184" rx="40" fill="#ff4d5e"/>
+    <path d="M486 463 572 512 486 561V528H428V496H486Z" fill="#f8fafc"/>
+    <circle cx="612" cy="512" r="16" fill="#f8fafc"/>
+  </g>
+
+  <!-- RecallRx canonical mark. -->
+  <g transform="translate(406 59) scale(.0859375)">
+    <rect width="1024" height="1024" rx="196" fill="#f8fafc" stroke="#d0d7de" stroke-width="16"/>
+    <path d="M788 741C884 600 874 409 764 280C653 150 461 113 309 194C213 245 147 337 132 444" fill="none" stroke="#006d77" stroke-width="76" stroke-linecap="round"/>
+    <path d="M69 381 126 553 253 423Z" fill="#006d77"/>
+    <g transform="rotate(-42 512 512)">
+      <path d="M512 222C429 222 362 289 362 372V512H662V372C662 289 595 222 512 222Z" fill="#eab308"/>
+      <path d="M362 512V652C362 735 429 802 512 802S662 735 662 652V512Z" fill="#e6fffb"/>
+      <rect x="362" y="222" width="300" height="580" rx="150" fill="none" stroke="#18202a" stroke-width="48"/>
+      <path d="M382 512H642" stroke="#18202a" stroke-width="40"/>
+    </g>
+  </g>
+
+  <!-- Shelf-School canonical mark. -->
+  <g transform="translate(706 59) scale(1.375)">
+    <rect width="64" height="64" rx="10" fill="#0b5cad"/>
+    <path d="M15 15H28C32 15 35 17 36 20C37 17 40 15 44 15H49V47H42C39 47 37 48 36 50C35 48 33 47 30 47H15V15Z" fill="#ffffff"/>
+    <path d="M36 21V50M20 24H30M20 31H30M42 24H45M42 31H45" fill="none" stroke="#0b5cad" stroke-width="3" stroke-linecap="round"/>
+    <path d="M13 51H51" stroke="#67c18c" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <!-- DataMatrix2Codes canonical mark. -->
+  <g transform="translate(1006 59) scale(.0859375)">
+    <rect width="1024" height="1024" rx="192" fill="#f8fafc" stroke="#d0d7de" stroke-width="16"/>
+    <circle cx="512" cy="512" r="388" fill="#ffffff" stroke="#d39a18" stroke-width="18"/>
+    <g fill="none" stroke="#0e9baa" stroke-width="58" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M224 358V238H344"/>
+      <path d="M680 238H800V358"/>
+      <path d="M800 666V786H680"/>
+      <path d="M344 786H224V666"/>
+    </g>
+    <g fill="#17202a">
+      <rect x="312" y="326" width="54" height="372"/>
+      <rect x="312" y="644" width="372" height="54"/>
+      <rect x="402" y="326" width="54" height="54"/>
+      <rect x="510" y="326" width="108" height="54"/>
+      <rect x="618" y="380" width="66" height="108"/>
+      <rect x="402" y="434" width="108" height="54"/>
+      <rect x="564" y="488" width="54" height="108"/>
+      <rect x="402" y="542" width="54" height="102"/>
+      <rect x="510" y="542" width="54" height="54"/>
+      <rect x="618" y="596" width="66" height="48"/>
+    </g>
+    <path d="M704 512H802" fill="none" stroke="#d39a18" stroke-width="56" stroke-linecap="round"/>
+    <path d="M770 448 834 512 770 576" fill="none" stroke="#d39a18" stroke-width="56" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="788" y="372" width="142" height="280" rx="34" fill="#17202a"/>
+    <text x="859" y="550" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="104" font-weight="800" text-anchor="middle">01</text>
+  </g>
+
+  <text class="ink project" x="150" y="184" text-anchor="middle">Pad-Lattice</text>
+  <text class="domain" x="150" y="209" text-anchor="middle" fill="#087d88">AI INTERFACES</text>
+
+  <text class="ink project" x="450" y="184" text-anchor="middle">RecallRx</text>
+  <text class="domain" x="450" y="209" text-anchor="middle" fill="#8a5a00">HEALTHCARE</text>
+
+  <text class="ink project" x="750" y="184" text-anchor="middle">Shelf-School</text>
+  <text class="domain" x="750" y="209" text-anchor="middle" fill="#2862c4">EDUCATION</text>
+
+  <text class="ink project" x="1050" y="184" text-anchor="middle">DataMatrix2Codes</text>
+  <text class="domain" x="1050" y="209" text-anchor="middle" fill="#087d88">HEALTHCARE</text>
+</svg>
