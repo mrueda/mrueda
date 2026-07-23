@@ -9,8 +9,8 @@ genomics, and AI-assisted research.
 I lead the
 [CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics)
 subteam, where we develop open-source infrastructure for biomedical data
-and reproducible analysis. My independent projects apply the same engineering
-approach to practical problems in healthcare, education, and human-computer
+and reproducible analysis. My independent projects apply the same practical
+approach to problems in healthcare, education, and human-computer
 interaction.
 
 ## 🧬 Research software
@@ -30,8 +30,6 @@ Further collaborative projects are available through
 [CNAG Biomedical Informatics](https://github.com/CNAG-Biomedical-Informatics).
 
 ## 🚀 Independent open-source projects
-
-![Featured independent projects across AI interfaces, healthcare, and education](assets/project-spectrum.svg)
 
 - 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice)
   *(AI interfaces)* - A tactile visual language between people and AI agents,
