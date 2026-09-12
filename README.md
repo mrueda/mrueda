@@ -31,20 +31,15 @@ Further collaborative projects are available through
 
 ## 🚀 Independent open-source projects
 
-- 🎛️ [**Pad-Lattice**](https://github.com/mrueda/pad-lattice)
-  *(AI interfaces)* - A tactile visual language between people and AI agents,
-  available through physical MIDI pad controllers and virtual surfaces on
-  phones, tablets, and browsers.
-- 💊 [**RecallRx**](https://github.com/mrueda/recallrx) *(Healthcare)* -
-  Country-aware medicine recall search using official regulatory sources.
-- 🔺 [**Nomenclator Delta**](https://mrueda.github.io/nomenclator-delta/)
-  *(Healthcare)* - Search and compare monthly changes in Spain's official
-  pharmaceutical Nomenclátor.
-- 📚 [**Shelf-School**](https://github.com/mrueda/shelf-school) *(Education)* -
-  A self-hosted library management system for small schools.
-- 💊 [**DataMatrix2Codes**](https://github.com/mrueda/datamatrix2codes)
-  *(Healthcare)* - Decode and process GS1 DataMatrix barcodes used on
-  pharmaceutical packaging.
+| Area | Project | Description |
+| --- | --- | --- |
+| 🧬 Research | **Digital Genome Workstation (DGW)** *(submitted)* | A desktop application for editing genome variants, exploring their predicted consequences, and comparing alternatives without changing the source VCF. |
+| 🎛️ AI interfaces | [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) | A tactile visual language between people and AI agents, available through physical MIDI pad controllers and virtual surfaces on phones, tablets, and browsers. |
+| 💊 Healthcare & pharmacy | [**RecallRx**](https://github.com/mrueda/recallrx) | Country-aware medicine recall search using official regulatory sources. |
+| 💊 Healthcare & pharmacy | [**Nomenclator Delta**](https://mrueda.github.io/nomenclator-delta/) | Search and compare monthly changes in Spain's official pharmaceutical Nomenclátor. |
+| 💊 Healthcare & pharmacy | [**DataMatrix2Codes**](https://github.com/mrueda/datamatrix2codes) | Decode and process GS1 DataMatrix barcodes used on pharmaceutical packaging. |
+| 📚 Education | [**Shelf-School**](https://github.com/mrueda/shelf-school) | A self-hosted library management system for small schools. |
+| 📚 Education | [**Montessori Virtual Room**](https://github.com/mrueda/montessori-virtual-room) | An interactive virtual Montessori classroom for exploring materials, activities, and their educational purpose. |
 
 ### 🧪 Experiments
 
