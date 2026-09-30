@@ -33,7 +33,7 @@ Further collaborative projects are available through
 
 | Area | Project | Description |
 | --- | --- | --- |
-| 🧬 Research | [**Digital Genome Workstation (DGW)**](https://github.com/mrueda/digital-genome-workstation) *(submitted)* | A desktop application for editing genome variants, exploring their predicted consequences, and comparing alternatives without changing the source VCF. |
+| 🧬 Research | [**Digital Genome Workstation (DGW)**](https://github.com/mrueda/digital-genome-workstation) *(submitted)* | Interactive and non-destructive editing of genome variants. |
 | 🎛️ AI interfaces | [**Pad-Lattice**](https://github.com/mrueda/pad-lattice) | A tactile visual language between people and AI agents, available through physical MIDI pad controllers and virtual surfaces on phones, tablets, and browsers. |
 | 💊 Healthcare & pharmacy | [**RecallRx**](https://github.com/mrueda/recallrx) | Country-aware medicine recall search using official regulatory sources. |
 | 💊 Healthcare & pharmacy | [**Nomenclator Delta**](https://mrueda.github.io/nomenclator-delta/) | Search and compare monthly changes in Spain's official pharmaceutical Nomenclátor. |
